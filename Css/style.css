@@ -2,11 +2,12 @@
 @import url(global/header.css);
 @import url(home/introducao.css);
 @import url(home/tecnologia.css);
+@import url(home/parceiros.css);
+@import url(home/depoimento.css);
 @import url(utilitarios/componentes.css);
 @import url(utilitarios/tipografia.css);
 @import url(utilitarios/cores.css);
 @import url(bicicletas/bicicletas-lista.css);
-
-
+@import url(seguros/seguros.css);
 
 
